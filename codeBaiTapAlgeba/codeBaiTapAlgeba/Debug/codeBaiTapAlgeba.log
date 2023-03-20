@@ -1,0 +1,45 @@
+﻿Build started 2/27/2023 10:11:27 PM.
+     1>Project "C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\codeBaiTapAlgeba\codeBaiTapAlgeba.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp SoPhuc.cpp SoPhucSinXo.cpp
+         SoPhucSinXo.cpp
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophucsinxo.cpp(42): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophucsinxo.cpp(88): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophucsinxo.cpp(94): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophucsinxo.cpp(115): warning C4018: '<': signed/unsigned mismatch
+         Main.cpp
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(84): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(95): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(107): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\main.cpp(110): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+         Compiling...
+         SoPhuc.cpp
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(12): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(22): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(34): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(53): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(65): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(168): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(213): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(216): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(256): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(266): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(276): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(291): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\codebaitapalgeba\codebaitapalgeba\sophuc.cpp(303): warning C4018: '<': signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\Debug\codeBaiTapAlgeba.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\Debug\codeBaiTapAlgeba.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\Debug\codeBaiTapAlgeba.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\PhanSo.obj
+         Debug\SoPhuc.obj
+         Debug\SoPhucSinXo.obj
+         codeBaiTapAlgeba.vcxproj -> C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\Debug\codeBaiTapAlgeba.exe
+     1>Done Building Project "C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\codeBaiTapAlgeba\codeBaiTapAlgeba\codeBaiTapAlgeba.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.41

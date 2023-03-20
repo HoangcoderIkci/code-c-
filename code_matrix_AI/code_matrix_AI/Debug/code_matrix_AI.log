@@ -1,0 +1,64 @@
+﻿Build started 1/16/2023 12:13:22 AM.
+     1>Project "C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\code_matrix_AI\code_matrix_AI.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(14): warning C4018: '<': signed/unsigned mismatch
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(21): note: see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(20): note: while compiling class template member function 'std::ostream &operator <<(std::ostream &,const matrix<int> &)'
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\main.cpp(25): note: see reference to class template instantiation 'matrix<int>' being compiled
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(38): warning C4018: '<': signed/unsigned mismatch
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(122): note: see reference to function template instantiation 'std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> operator *<int>(const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(118): note: while compiling class template member function 'matrix<int> matrix<int>::operator *(const matrix<int> &)'
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\main.cpp(31): note: see reference to function template instantiation 'matrix<int> matrix<int>::operator *(const matrix<int> &)' being compiled
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(40): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(8): warning C4018: '<': signed/unsigned mismatch
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(15): note: see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const std::vector<int,std::allocator<_Ty>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(21): note: see reference to function template instantiation 'std::ostream &operator <<<int>(std::ostream &,const std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(23): warning C4018: '<': signed/unsigned mismatch
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(39): note: see reference to function template instantiation 'std::vector<int,std::allocator<_Ty>> operator *<int,int>(const std::vector<_Ty,std::allocator<_Ty>> &,const T_2 &)' being compiled
+                 with
+                 [
+                     _Ty=int,
+                     T_2=int
+                 ]
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(122): note: see reference to function template instantiation 'std::vector<std::vector<int,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> operator *<int>(const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &,const std::vector<std::vector<_Ty,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(53): warning C4018: '<': signed/unsigned mismatch
+         c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\myfunction.h(41): note: see reference to function template instantiation 'std::vector<int,std::allocator<_Ty>> operator +<int>(const std::vector<_Ty,std::allocator<_Ty>> &,const std::vector<_Ty,std::allocator<_Ty>> &)' being compiled
+                 with
+                 [
+                     _Ty=int
+                 ]
+     1>c:\users\thangvu\documents\pmhoang\luu chuong trinh\code_matrix_ai\code_matrix_ai\matrix.h(111): warning C4172: returning address of local variable or temporary: err
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\Debug\code_matrix_AI.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\Debug\code_matrix_AI.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\Debug\code_matrix_AI.lib" /MACHINE:X86 Debug\codepole.obj
+         Debug\main.obj
+         Debug\myDaThuc.obj
+         Debug\myFunction.obj
+         Debug\POLE.obj
+         code_matrix_AI.vcxproj -> C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\Debug\code_matrix_AI.exe
+     1>Done Building Project "C:\Users\ThangVu\Documents\pmhoang\luu chuong trinh\code_matrix_AI\code_matrix_AI\code_matrix_AI.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.57
